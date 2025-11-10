@@ -1,11 +1,5 @@
 # 🎮 Quiz App
 
-<p>
-  <a href="https://ko-fi.com/O4O6LO7Q1" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" style="border: 0;">
-  </a>
-</p>
-
 Welcome to **JavaFX Quiz App**, a feature-rich desktop quiz application built with **JavaFX** and **SQLite**. This application provides an engaging and interactive platform for creating, managing, and playing quizzes with a modern user interface. Designed for educators, students, and trivia enthusiasts, JavaFX Quiz App combines robust functionality with a sleek, customizable experience.
 
 ## 🎯 Features
