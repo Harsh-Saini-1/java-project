@@ -32,7 +32,7 @@
 }
 
 .about-button {
-    -fx-background-color: #2ecc71;
+    -fx-background-color: #1ea1a5;
     -fx-text-fill: white;
     -fx-font-size: 18px;
     -fx-pref-width: 250px;
@@ -42,7 +42,7 @@
 }
 
 .about-button:hover {
-    -fx-background-color: #27ae60;
+    -fx-background-color: #1b8f93;
 }
 
 .social-button {
@@ -51,20 +51,20 @@
 }
 
 .social-button .svg-path {
-    -fx-fill: #3498db;
+    -fx-fill: #1ea1a5;
 }
 
 .social-button:hover .svg-path {
-    -fx-fill: #2980b9;
+    -fx-fill: #1b8f93;
 }
 
-
+1B8F93FF
 * {
     -fx-font-family: Poppins;
 }
 
 .button {
-    -fx-background-color: rgba(26, 42, 108, 0.8); /* Dark navy blue */
+    -fx-background-color: rgb(30, 161, 165); /* Dark navy blue */
     -fx-text-fill: #ffffff; /* White text */
     -fx-font-size: 14px;
     -fx-padding: 10px 20px;
@@ -75,26 +75,26 @@
 }
 
 .button:hover {
-    -fx-background-color: rgba(26, 42, 108, 1); /* Darker navy on hover */
+    -fx-background-color: rgb(27, 143, 147); /* Darker navy on hover */
     -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.4), 15, 0, 0, 0);
     -fx-scale-x: 1.05;
     -fx-scale-y: 1.05;
 }
 
 .primary-button {
-    -fx-background-color: #003366; /* Dark navy blue */
+    -fx-background-color: #1ea1a5; /* Dark navy blue */
 }
 
 .primary-button:hover {
-    -fx-background-color: #002244; /* Darker shade on hover */
+    -fx-background-color: #1b8f93; /* Darker shade on hover */
 }
 
 .secondary-button {
-    -fx-background-color: #FFB300; /* Yellowish for secondary buttons */
+    -fx-background-color: #1ea1a5; /* Yellowish for secondary buttons */
 }
 
 .secondary-button:hover {
-    -fx-background-color: #FFA000; /* Darker shade on hover */
+    -fx-background-color: #1b8f93; /* Darker shade on hover */
 }
 
 .label {

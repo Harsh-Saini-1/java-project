@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55fc9eff-590e-4142-ae36-479987bf3475" name="Changes" comment="System Update/Improvement&#10;Localization Support and Additional Features">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quiz_app.db" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/vox/drei/about-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/vox/drei/about-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/vox/drei/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/vox/drei/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/vox/drei/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/vox/drei/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/messages_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages_en.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +40,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/VoxDroid/Java-Quiz-App&quot;,
-    &quot;accountId&quot;: &quot;11538cf0-91f9-41f0-8aea-68be68e25222&quot;
+    &quot;url&quot;: &quot;https://github.com/VoxDroid/Java-Quiz-App.git&quot;,
+    &quot;accountId&quot;: &quot;9482bf4c-6d33-489d-8489-8b38961921dd&quot;
   }
 }</component>
   <component name="MavenImportPreferences">
@@ -51,7 +58,7 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2nB89eD8WXzjBeUNrz1K9GxTCGI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -61,23 +68,38 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.DreiMain.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Drei/IdeaProjects/dreizel/src/main/resources/com/vox/drei&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Harsh Saini/Java-Quiz-App/src/main/resources/com/vox/drei&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Harsh Saini\Java-Quiz-App\src\main\resources\com\vox\drei" />
       <recent name="C:\Users\Drei\IdeaProjects\dreizel\src\main\resources\com\vox\drei" />
       <recent name="C:\Users\Drei\IdeaProjects\dreizel\src\main\resources" />
     </key>
@@ -87,6 +109,16 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../Program Files/Java/jdk-25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.vox.drei.DreiMain" />
+      <module name="drei" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-25.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="dreizel" />
       <method v="2">
@@ -104,8 +136,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
@@ -127,6 +159,11 @@
       <workItem from="1730347996537" duration="322000" />
       <workItem from="1733308994755" duration="298000" />
       <workItem from="1733617978582" duration="292000" />
+      <workItem from="1762695952854" duration="2469000" />
+      <workItem from="1762698466258" duration="1713000" />
+      <workItem from="1762749640046" duration="67000" />
+      <workItem from="1762755599576" duration="2975000" />
+      <workItem from="1762767373615" duration="1080000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Quiz System">
       <option name="closed" value="true" />
@@ -419,5 +456,17 @@
     <MESSAGE value="System Update/Improvement&#10;Minor Cleaning" />
     <MESSAGE value="System Update/Improvement&#10;Localization Support and Additional Features" />
     <option name="LAST_COMMIT_MESSAGE" value="System Update/Improvement&#10;Localization Support and Additional Features" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vox/drei/AboutController.java</url>
+          <line>36</line>
+          <properties field="bundle" class="com.vox.drei.AboutController" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

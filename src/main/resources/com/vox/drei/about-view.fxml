@@ -24,7 +24,7 @@
 
         <Label text="%app.title" styleClass="about-title"/>
         <Label fx:id="versionLabel" styleClass="about-subtitle"/>
-        <Label text="%createdbydrei" styleClass="about-subtitle"/>
+        <Label text="%createdbyHarsh" styleClass="about-subtitle"/>
 
         <Label fx:id="descriptionLabel" wrapText="true" alignment="CENTER" maxWidth="600" styleClass="about-description"/>
 
@@ -51,7 +51,7 @@
             </Button>
         </HBox>
 
-        <Label text="%copyrightdrei" styleClass="about-copyright"/>
+        <Label text="%copyrightHarsh" styleClass="about-copyright"/>
         <Button text="%back.to.main" onAction="#backToMain" styleClass="about-button"/>
     </VBox>
 </ScrollPane>

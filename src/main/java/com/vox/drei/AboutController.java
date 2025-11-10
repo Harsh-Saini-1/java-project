@@ -61,13 +61,13 @@ public class AboutController {
     private void openSocialMedia(javafx.event.ActionEvent event) {
         String url = "";
         if (event.getSource() == instagramButton) {
-            url = "https://www.instagram.com/drei_izel/";
+            url = "https://www.instagram.com";
         } else if (event.getSource() == facebookButton) {
-            url = "https://www.facebook.com/MharAndrei";
+            url = "https://www.facebook.com";
         } else if (event.getSource() == twitterButton) {
-            url = "https://x.com/drei_zx";
+            url = "https://x.com";
         } else if (event.getSource() == githubButton) {
-            url = "https://github.com/VoxDroid";
+            url = "https://github.com";
         }
 
         try {
