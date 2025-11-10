@@ -73,7 +73,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/VoxDroid/Java-Quiz-App.git
+   git clone https://github.com/Harsh-Saini-1/java-project.git
    ```
 
 2. **Open in IntelliJ IDEA**:
