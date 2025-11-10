@@ -1,12 +1,4 @@
-# 🎮 JavaFX Quiz App
-
-![JavaFX Quiz App](https://raw.githubusercontent.com/VoxDroid/Java-Quiz-App/refs/heads/main/src/main/resources/icon.png)
-
-![Java Version](https://img.shields.io/badge/Java-17-orange)
-![JavaFX](https://img.shields.io/badge/JavaFX-11%2B-blue)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellowgreen)
-![Downloads](https://img.shields.io/github/downloads/VoxDroid/Java-Quiz-App/total)
+# 🎮 Quiz App
 
 <p>
   <a href="https://ko-fi.com/O4O6LO7Q1" target="_blank">
